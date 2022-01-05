@@ -1,4 +1,5 @@
 import obrazek from './pokemon-background-hd-1280x1024-278524.jpg'
+import text from './text'
 function AppContent() {
     return (
         <content>
@@ -31,10 +32,8 @@ function AppContent() {
                 <p className=" text-left  mt-4">asds asdasdsadas</p>
                 <p className=" text-left  mt-4">asds asdasdsadas</p>
                 <p className=" text-left  mt-4">asds asdasdsadas</p>
-                <p className=" text-left  ">Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Donec quis nibh at felis congue commodo. Praesent id justo in neque elementum ultrices.</p>
-                <p className=" text-left  ">Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Donec quis nibh at felis congue commodo. Praesent id justo in neque elementum ultrices.</p>
-                <p className=" text-left  ">Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Donec quis nibh at felis congue commodo. Praesent id justo in neque elementum ultrices.</p>
-                <p className=" text-left  ">Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Donec quis nibh at felis congue commodo. Praesent id justo in neque elementum ultrices.</p>
+               
+
             </div>
             <div className="grid grid-cols-2">
                 <div className="grid justify-items-center">
