@@ -10,7 +10,7 @@ function AppTaipei() {
             <div></div>
             <div className="grid lg:grid-cols-3">
                 <div></div>
-                <div className= "lg:text-center text-center lg:text-xl lg:px-5 lg:py-3 px-4 py-2 bg-blue-800 lg:rounded-full rounded-full w-full mb-10"> Taipei</div>
+                <div className= "lg:text-center text-center lg:text-xl lg:px-5 lg:py-3 px-4 py-2 bg-blue-800 lg:rounded-full rounded-full w-full mb-10 text-white"> Taipei</div>
                 <div></div>
             </div>
             <div></div>
@@ -20,13 +20,13 @@ function AppTaipei() {
             <div></div>
             <div className="grid mt-10   lg:grid-cols-2 sm:grid-cols-3">
 
-                <div className="lg:p-8 pb-8 w-48 lg:w-full drop-shadow-2xl"><img src={budova1} alt="" /></div>
+                <div className="lg:p-8 pb-8 w-48 lg:w-full drop-shadow-2xl pr-16"><img src={budova1} alt="" /></div>
 
-                <div className="lg:p-8 pb-8  w-48 lg:w-full drop-shadow-2xl"><img src={budova2} alt="" /></div>
+                <div className="lg:p-8 pb-8  w-48 lg:w-full drop-shadow-2xl pr-16"><img src={budova2} alt="" /></div>
 
-                <div className="lg:p-8 pb-8 w-48 lg:w-full drop-shadow-2xl"><img src={pole} alt="" /></div>
+                <div className="lg:p-8 pb-8 w-48 lg:w-full drop-shadow-2xl pr-16"><img src={pole} alt="" /></div>
 
-                <div className="lg:p-8 pb-8 w-48 lg:w-full drop-shadow-2xl"><img src={radnice} alt="" /></div>
+                <div className="lg:p-8 pb-8 w-48 lg:w-full drop-shadow-2xl pr-16"><img src={radnice} alt="" /></div>
 
             </div>
             <div></div>

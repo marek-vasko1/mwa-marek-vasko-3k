@@ -4,7 +4,7 @@ function AppWar() {
             <div></div>
             <div></div>
             <div></div>
-            <div id="T5" className=" lg:text-xl text-xl text-center lg:text-center lg:mt-20 mt-20 lg:rounded-full rounded-full lg:px-4 lg:py-2 px-4 py-2  bg-blue-900"><h6>War</h6></div>
+            <div id="T5" className=" lg:text-xl text-xl text-center lg:text-center lg:mt-20 mt-20 lg:rounded-full rounded-full lg:px-4 lg:py-2 px-4 py-2  bg-blue-900 text-white"><h6>War</h6></div>
             <div></div>
             <div></div>
             <div></div>

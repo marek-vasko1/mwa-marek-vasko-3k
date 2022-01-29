@@ -7,7 +7,7 @@ function AppAllies() {
             <div></div>
             <div></div>
             <div></div>
-            <div id="T3" className=" lg:text-xl text-xl text-center lg:text-center lg:mt-20 mt-20 lg:rounded-full rounded-full lg:px-4 lg:py-2 px-4 py-2  bg-blue-900"><h6>Allies</h6></div>
+            <div id="T3" className=" lg:text-xl text-xl text-center lg:text-center lg:mt-20 mt-20 lg:rounded-full rounded-full lg:px-4 lg:py-2 px-4 py-2  bg-blue-900 text-white" ><h6>Allies</h6></div>
             <div></div>
             <div></div>
             <div></div>
@@ -34,7 +34,7 @@ function AppAllies() {
                 <div className=" grid lg:grid-cols-3">
                     <div></div>
                     <div>
-                        <p className="id-T3 lg:text-lg  lg:mt-10 mt-10 text-center lg:px-4 lg:py-2 lg:rounded-full rounded-full px-4 py-2  bg-blue-900"> Kopie smlouvy</p>
+                        <p className="id-T3 lg:text-lg  lg:mt-10 mt-10 text-center lg:px-4 lg:py-2 lg:rounded-full rounded-full px-4 py-2  bg-blue-900 text-white"> Kopie smlouvy</p>
                     </div>
                     <div></div>
                 </div>
