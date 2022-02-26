@@ -16,7 +16,8 @@ module.exports = {
       'logo': '40px',
       '16px': '16px',
       '72px': '72px',
-      '52px': '52px',
+      '52px': '32px',
+      '32px': '32px',
     },
     /*borderWidth:{
       '3px': '3px'
