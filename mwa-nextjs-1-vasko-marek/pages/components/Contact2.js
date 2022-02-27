@@ -22,7 +22,7 @@ export default function Cont2() {
                 <div className=" mt-4 p-4">
                     <p>Cum ea debitis maluisset gubergren, at mea essent splendide. Vix dicam dolore cu. Mel erat timeam scriptorem an. Sit alii tantas viderer no. An mel nostrum appareat.</p>
                 </div>
-                <div className="mt-4 p-4">
+                <div className="mt-4 p-4 font-thin">
                     <p>Vix habeo scaevola percipitur ne, qui noster abhorreant ne, mea in dicant eligendi evertitur. Ad falli aliquid menandri his. Usu vocent copiosae ut. No nihil munere eum.</p>
                 </div>
                 <div className="grid sm:grid-cols-2 p-4">

@@ -97,7 +97,7 @@ export default function P8() {
 
             </div>
             <div className="">
-                <div className="grid sm:grid-cols-3 text-center mt-8 text-[#333333] pb-8">
+                <div className="grid sm:grid-cols-3 text-center mt-8 text-[#333333] pb-8 font-thin">
                     <div></div>
                     <p>Diam facilisi insolens per cu, eos malorum voluptaria
                         esse concludaturque facete quaeque consequat </p>

@@ -19,31 +19,41 @@ export default function Footer() {
 
           <div>
             <p className="font-bold mt-6">Habeo</p>
-            <p className="sm:mt-8 mt-4">Scaevola</p>
-            <p>Aliquam</p>
-            <p>Noluisse</p>
-            <p>Epicuri</p>
-            <p>Detracto</p>
+            <div className="font-thin">            
+              <p className="sm:mt-8 mt-4">Scaevola</p>
+              <p>Aliquam</p>
+              <p>Noluisse</p>
+              <p>Epicuri</p>
+              <p>Detracto</p>
+            </div>
+
 
 
           </div>
           <div>
             <p className="font-bold mt-6">Indoctum</p>
-            <p className="sm:mt-8 mt-4">Fierent</p>
+
+            <div className=" font-thin">
+              <p className="sm:mt-8 mt-4">Fierent</p>
             <p>Pericula</p>
             <p>Veniam</p>
             <p>Epicuri</p>
             <p>Mutat</p>
+            </div>
+            
 
 
           </div>
           <div>
             <p className="font-bold mt-6">Quaestio</p>
-            <p className="sm:mt-8 mt-4">Erroribus</p>
+            <div className=" font-thin">
+              <p className="sm:mt-8 mt-4">Erroribus</p>
             <p>Modus</p>
             <p>Volumus</p>
             <p>Abhorreant</p>
             <p>Mentitum</p>
+            </div>
+            
 
           </div>
 
@@ -52,7 +62,7 @@ export default function Footer() {
         </div>
 
       </div>
-      <div className=" text-center text-white p-5">
+      <div className=" text-center text-white p-5 font-thin">
         <p>© LOGO, 2019. All rights reserved. Created by Laaqiq.</p>
       </div>
 

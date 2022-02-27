@@ -3,7 +3,7 @@ export default function Port2() {
         <div className=" bg-[#FFF2DD] p-4 font-sans">
             <div className="grid sm:grid-cols-3">
                 <div></div>
-                <div className="grid sm:grid-cols-5 ">
+                <div className="grid sm:grid-cols-5 font-thin">
                     <h5 className=" font-bold">
                     Vivendo
                     </h5>

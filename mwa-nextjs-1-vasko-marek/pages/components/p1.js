@@ -13,9 +13,9 @@ export default function P1() {
                 <div className="grid-rows-2"><input type=" email" className="text-black py-2 px-9 mt-5 mb-5 " /> 
                 <button className="py-2 px-9 border sm:ml-6 bg-white text-black" >submit</button></div>
             </div>
-                <img className=' ' src={obrazek1_0} alt="img"/>
-            <div>
-
+                
+            <div className="grid justify-center content-center">
+                <img src={obrazek1_0} alt="img"/>
             </div>
 
       </div>
