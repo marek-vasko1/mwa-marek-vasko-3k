@@ -1,8 +1,9 @@
-export default function P10() {
+export default function Port4() {
     return (
-        <div className="bg-[#A85756] p-4">
+        <div className="bg-[#FFF2DD] p-4">
             <div>
-                <h3 className=" text-center text-52px font-custom pt-8 pb-8 text-white">Timeam scriptorem</h3>
+                <p className="text-center sm:mt-4  text-[#BE6361]">Dicam dolore</p>
+                <h3 className=" text-center text-52px font-custom pt-8 pb-8 text-black">Timeam scriptorem</h3>
             </div>
             <div className="grid sm:grid-cols-3 ">
                 <div className=" grid grid-cols-3 justify-items-center pt-5 pb-5 bg-white sm:ml-32 mt-8 mb-8 drop-shadow-lg">

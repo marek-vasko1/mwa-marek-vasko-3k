@@ -1,3 +1,5 @@
+import Portfolio from "../portfolio";
+
 export default function Header() {
     return (
   <div>
@@ -6,7 +8,7 @@ export default function Header() {
           <div className="grid md:grid-cols-2">
 
               <div className="sm:justify-self-end sm:mr-5 text-16px text-right">
-                  <p className="">portfolio</p>
+                  <a href={Portfolio}>portfolio</a>
                   
               </div>
               <div className="sm:justify-self-start sm:ml-5 text-16px sm:text-right text-right"><p>Contact</p></div>

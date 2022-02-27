@@ -8,7 +8,7 @@ export default function P8() {
                 <h3 className="text-52px font-custom">Nullam ornatus</h3>
             </div>
             <div className="grid sm:grid-cols-3 mt-12">
-                <div className=" bg-white p-14 sm:ml-32 mb-4">
+                <div className=" bg-white p-14 sm:ml-32 mb-4 drop-shadow-2xl">
                     <div className="grid grid-cols-2">
                         <div>
                             <p className=" text-[#BE6361]">
@@ -36,7 +36,7 @@ export default function P8() {
                         <button className="mt-8 py-2 px-14 border border-[#BE6361]  rounded  text-[#BE6361]">Buy</button>
                     </div>
                 </div>
-                <div className=" bg-[#BE6361] p-14 sm:ml-12 sm:mr-12 mb-14">
+                <div className=" bg-[#BE6361] p-14 sm:ml-12 sm:mr-12 mb-4 drop-shadow-2xl ">
                     <div className="grid grid-cols-2">
                         <div>
                             <p className=" text-white">
@@ -64,7 +64,7 @@ export default function P8() {
                         <button className="mt-8 py-2 px-14 border border-[#000000] bg-white rounded  text-[#000000]">Buy</button>
                     </div>
                 </div>
-                <div className=" bg-white p-14 sm:mr-32">
+                <div className=" bg-white p-14 sm:mr-32 drop-shadow-2xl mb-4 ">
                     <div className="grid grid-cols-2">
                         <div>
                             <p className=" text-[#BE6361]">
