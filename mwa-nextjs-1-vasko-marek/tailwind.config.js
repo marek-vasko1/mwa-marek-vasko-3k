@@ -18,6 +18,8 @@ module.exports = {
       '72px': '72px',
       '52px': '32px',
       '32px': '32px',
+      '48px': '48px',
+      '80px': '80px',
     },
     /*borderWidth:{
       '3px': '3px'

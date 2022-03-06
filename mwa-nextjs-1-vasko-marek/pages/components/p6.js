@@ -1,6 +1,8 @@
+import Image from 'next/image'
+
 export default function P6() {
     return (
-        <div className="grid  place-items-center">
+    <div className="grid  place-items-center bg-[(''https://www.figma.com/file/Nq3Fgk2P3uqCABfJbO70Jz/DVOP-MWA-NextJS-template-1?node-id=0%3A107)]">
             <p className="mt-8 mb-3 text-center">Eos lobortis inimicus</p>
             <div className="grid sm:grid-cols-3">
             <div></div>
