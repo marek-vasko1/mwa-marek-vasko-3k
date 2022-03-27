@@ -1,3 +1,5 @@
+import Image from 'next/image'
+
 export default function Cont1() {
     return (
         <div className="p-4 bg-[#BE6361] text-white">
@@ -7,9 +9,10 @@ export default function Cont1() {
                     <h3 className="mb-3 font-custom text-32px " >Contact</h3>
                     <div className="grid sm:grid-cols-2 text-left"><p className="">Te aliquam noluisse his. Et vel epicuri detracto indoctum, et fierent pericula vim, veniam.</p></div>
                 </div>
-                <div className="grid sm:justify-end justify-center sm:mr-32">
-                    <img src="" alt="img" />
-                </div>
+                <div className="grid justify-center content-center">
+                <Image src={'/contactp1.svg'} alt="img1" width={500}
+        height={500}></Image>
+            </div>
             </div>
         </div>
         

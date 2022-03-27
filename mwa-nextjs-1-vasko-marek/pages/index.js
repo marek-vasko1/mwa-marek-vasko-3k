@@ -13,18 +13,12 @@ import P8 from './components/p8'
 import P9 from './components/p9'
 import P10 from './components/p10'
 import Footer from './components/footer'
-import Port1 from './components/portfolio1'
-import Port2 from './components/portfolio2'
-import Port3 from './components/portfolio3'
-import Port4 from './components/portfolio4'
-import Cont1 from './components/Contact1'
-import Cont2 from './components/Contact2'
 
 
 export default function Home() {
   return (
 <div>
-    <Header></Header>
+
     <P1></P1>
     <P2></P2>
     <P3></P3>
@@ -35,16 +29,7 @@ export default function Home() {
     <P8></P8>
     <P9></P9>
     <P10></P10>
-    <Footer></Footer>
-    <Header></Header>
-    <Port1></Port1>
-    <Port2></Port2>
-    <Port3></Port3>
-    <Port4></Port4>
-    <Footer></Footer>
-    <Header></Header>
-    <Cont1></Cont1>
-    <Cont2></Cont2>
+
 
 </div>
   )

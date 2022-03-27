@@ -7,7 +7,7 @@ export default function Footer() {
 
 
 
-        <div className="grid sm:grid-cols-2  sm:ml-32">
+        <div className="grid sm:grid-cols-2  sm:ml-32 p-4">
           <div className="text-white">
             <h3 className=" font-custom text-52px">
               LOGO
@@ -15,10 +15,10 @@ export default function Footer() {
             <div className="grid grid-cols-1 mr-40">
               <p>Sit alii tantas viderer no. An mel nostrum appareat. Ad consul facilis est. Vix habeo scaevola percipitur ne, qui noster abhorreant ne.</p>
             </div>
-            <div className="grid grid-cols-3 justify-items-start mt-3 ">
-              <Image src={'/facebook.svg'} alt="img1" width={20} height={20} className=""></Image>
-              <Image src={'/path.svg'} alt="img1" width={20} height={20} className="mr-10"></Image>
-              <Image src={'/shape.svg'} alt="img1" width={20} height={20}></Image>
+            <div className="grid grid-cols-12  justify-items-start mt-9 ">
+              <Image src={'/facebook.svg'} alt="img1" width={20} height={20} className=" "></Image>
+              <Image src={'/path.svg'} alt="img1" width={20} height={20} className="mr-72 "></Image>
+              <Image src={'/shape.svg'} alt="img1" width={20} height={20} className=" "></Image>
 
             </div>
 

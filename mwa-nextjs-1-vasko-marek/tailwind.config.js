@@ -5,6 +5,7 @@ module.exports = {
   ],
   theme: {
     extend: {
+        
       lineHeight:{
         'logo': '48px',
       },

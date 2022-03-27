@@ -1,18 +1,19 @@
+import Image from 'next/image'
 export default function Cont2() {
     return (
         <div className="grid sm:grid-cols-2 sm:ml-32 sm:mr-32 mt-10">
             <div>
                 <div className="grid sm:grid-cols-2 ">
                     <div className=" grid grid-cols-3 justify-items-center pt-5 pb-5 ml-4 mr-4 bg-white mt-8 mb-8 drop-shadow-lg">
-                        <div><img src="" alt="img" /></div>
+                        <div><div className="grid justify-center content-center "><Image src={'/mobile.svg'} alt="img3" width={60} height={60} /></div></div>
                         <div className="cols-span-2">
                             <h5 className="font-bold">Call us</h5>
                             <p>+1 234 567 89 00</p>
                         </div>
                     </div>
                     <div className=" grid grid-cols-3 justify-items-center pt-5 pb-5 ml-4 mr-4 bg-white mt-8 mb-8 drop-shadow-lg">
-                        <div><img src="" alt="img" /></div>
-                        <div className="cols-span-2">
+                        <div><Image src={'/mail.svg'} alt="img3" width={60} height={60} /></div>
+                        <div className="cols-span-2 ml-8">
                             <h5 className="font-bold">Write us</h5>
                             <p className="font-bold">info@gmail.com</p>
                         </div>
@@ -37,8 +38,9 @@ export default function Cont2() {
 
 
 
-            <div className=" grid justify-center pt-5">
-                <img src="" alt="img" />
+            <div className="grid justify-center content-center">
+                <Image src={'/bitmapc.svg'} alt="img1" width={500}
+        height={500}></Image>
             </div>
 
 
